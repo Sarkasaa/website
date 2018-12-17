@@ -2,7 +2,9 @@ const greetings = [
     "Henlo :D",
     "'Sup?",
     "It's Wednesday my dudes",
-    "I have a boyfriend"
+    "I have a boyfriend",
+    "The world is quiet here",
+    "What's the price of a mile?"
 ]
 
 let greeting = $("#greeting");
