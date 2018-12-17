@@ -3,7 +3,8 @@ const taglines = [
     "a gamer",
     "an electrician",
     "a lazy guy",
-    "also known as Nico"
+    "also known as Nico",
+    "always tired"
 ]
 
 let tagline = $("#tagline");

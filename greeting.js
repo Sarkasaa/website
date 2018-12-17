@@ -4,7 +4,8 @@ const greetings = [
     "It's Wednesday my dudes",
     "I have a boyfriend",
     "The world is quiet here",
-    "What's the price of a mile?"
+    "What's the price of a mile?",
+    "I'm a tree"
 ]
 
 let greeting = $("#greeting");
