@@ -1,0 +1,44 @@
+body {
+    font-family: Roboto;
+    background-color: #2b1f42;
+}
+
+.main {
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+}
+
+.jumbotron {
+    padding-left: 50px;
+    box-shadow: 5px 5px #999999;
+}
+
+.box {
+    background-color: #FFFFFF;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 50px;
+    width: 60%;
+    position: absolute;
+    box-shadow: 5px 5px #999999;
+}
+
+.social-img {
+    height: 50px;
+    width: auto;
+    margin-right: 10px;
+    float: left;
+}
+
+#social{
+    text-align: center;
+}
+
+.social-btn {
+    width: 200px;
+    margin-right: 10px;
+    margin-left: 10px;
+    line-height: 50px;
+}
