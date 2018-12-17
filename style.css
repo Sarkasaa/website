@@ -15,6 +15,16 @@ body {
     box-shadow: 5px 5px #999999;
 }
 
+.impressum {
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 40px;
+}
+
+.impressum-name {
+    margin-bottom: 80px;
+}
+
 .box {
     background-color: #FFFFFF;
     margin-left: auto;
@@ -32,7 +42,7 @@ body {
     float: left;
 }
 
-#social{
+#social {
     text-align: center;
 }
 
@@ -41,4 +51,18 @@ body {
     margin-right: 10px;
     margin-left: 10px;
     line-height: 50px;
+}
+
+.footer {
+    bottom: 0;
+    font-size: 15px;
+    line-height: 20px;
+    background-color: #f5f5f5;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    position: absolute;
+    padding: 1rem;
+    text-align: center;
+    overflow: auto;
 }
