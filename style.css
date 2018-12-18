@@ -29,7 +29,7 @@ body {
     background-color: #FFFFFF;
     margin-left: auto;
     margin-right: auto;
-    padding: 50px;
+    padding: 10px;
     width: 60%;
     position: absolute;
     box-shadow: 5px 5px #999999;
@@ -51,6 +51,8 @@ body {
     margin-right: 10px;
     margin-left: 10px;
     line-height: 50px;
+    margin-bottom: 10px;
+    margin-top: 10px;
 }
 
 .footer {
