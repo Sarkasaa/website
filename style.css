@@ -68,3 +68,8 @@ body {
     text-align: center;
     overflow: auto;
 }
+
+.badbox {
+    text-align: center;
+    font-size: 30px;
+}
