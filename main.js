@@ -52,8 +52,7 @@ if (day.isWednesday()) {
         "I have a boyfriend",
         "The world is quiet here",
         "What's the price of a mile?",
-        "I'm a tree",
-        "Your ass"
+        "I'm a tree"
     ]
 }
 
